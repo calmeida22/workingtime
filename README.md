@@ -4,9 +4,9 @@ Trabalho de conclusão de curso técnico em Desenvolvimento de Sistemas
 SENAI - Santa Rita do Sapucaí
 
 Alunos:
-Aline Franciele Silva
-Charles Almeida
-José Jonatan
+Aline Franciele Silva,
+Charles Almeida,
+José Jonatan,
 Maria Júlia Schmidt
 
 Professora:
