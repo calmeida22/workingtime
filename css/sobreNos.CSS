@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+
+*{
+ margin: 0%;
+ padding: 0px;
+ font-family: 'Comfortaa';
+}
+
+body{
+    background-color:#FFE3DC;
+
+}
+
+.titulo{
+    background-color: black;
+    font-family: 'Comfortaa';
+    font-size: 240%;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+
+.principal{
+    background-color:#DBB4AD;
+    margin: 2%;
+    padding: 5%;
+}
+
+.icone{
+	display: flex;
+	width: 88%;
+	
+}
+
+.setinha{
+	padding-right: 1%;
+}
+
+.btn{
+    border: 6px solid black;
+    background-color: white;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	color: black;
+    font-size: 28px;
+    text-align: center;
+    width: 50%;    
+    margin-left: 20%;
+    padding: 5%;
+    border-radius: 4px;
+}
+
+
+.COLABORADORES{
+	display: flex;
+    flex-direction: column;
+    margin-right: 5%;
+   
+}
+
+.nome{
+    font-size: 25px;
+    justify-items: center;
+}
+
+.text-imagens{
+    display: flex;
+    align-items: center;
+    
+}
+
+.img{
+    border: 5px solid black;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 4px;
+    width: 70%;
+}
+	
